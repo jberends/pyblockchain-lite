@@ -9,6 +9,7 @@ pylint = "*"
 
 [packages]
 pykechain = "*"
+requests = ">=2.20.0"
 
 [requires]
 python_version = "3.5"
